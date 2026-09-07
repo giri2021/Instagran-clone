@@ -1,0 +1,272 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "username": "travel_with_me",
+      "profileImage": "https://i.pravatar.cc/150?img=12",
+      "image": "https://picsum.photos/id/1015/600/600",
+      "caption": "Beautiful mountains and fresh air 🏔️✨",
+      "likes": 245,
+      "comments": 18,
+      "date": "2026-08-30"
+    },
+    {
+      "id": "2",
+      "username": "foodie_world",
+      "profileImage": "https://i.pravatar.cc/150?img=32",
+      "image": "https://picsum.photos/id/1080/600/600",
+      "caption": "Good food, good mood! 🍕❤️",
+      "likes": 532,
+      "comments": 42,
+      "date": "2026-08-29"
+    },
+    {
+      "id": "3",
+      "username": "nature_lovers",
+      "profileImage": "https://i.pravatar.cc/150?img=47",
+      "image": "https://picsum.photos/id/1043/600/600",
+      "caption": "Nature always has the best view 🌿🌄",
+      "likes": 389,
+      "comments": 27,
+      "date": "2026-08-28"
+    },
+    {
+      "id": "4",
+      "username": "street_photography",
+      "profileImage": "https://i.pravatar.cc/150?img=56",
+      "image": "https://picsum.photos/id/1031/600/600",
+      "caption": "Exploring the city one street at a time 📸🏙️",
+      "likes": 721,
+      "comments": 65,
+      "date": "2026-08-27"
+    },
+    {
+      "id": "5",
+      "username": "fitness_daily",
+      "profileImage": "https://i.pravatar.cc/150?img=68",
+      "image": "https://picsum.photos/id/1062/600/600",
+      "caption": "Small progress every day 💪🔥",
+      "likes": 416,
+      "comments": 31,
+      "date": "2026-08-26"
+    },
+    {
+      "id": "6",
+      "username": "coding_life",
+      "profileImage": "https://i.pravatar.cc/150?img=15",
+      "image": "https://picsum.photos/id/180/600/600",
+      "caption": "Late night coding session 💻☕",
+      "likes": 198,
+      "comments": 14,
+      "date": "2026-08-25"
+    },
+    {
+      "id": "7",
+      "username": "sunset_vibes",
+      "profileImage": "https://i.pravatar.cc/150?img=22",
+      "image": "https://picsum.photos/id/1016/600/600",
+      "caption": "Sunsets are proof that endings can be beautiful 🌅",
+      "likes": 863,
+      "comments": 73,
+      "date": "2026-08-24"
+    },
+    {
+      "id": "8",
+      "username": "adventure_time",
+      "profileImage": "https://i.pravatar.cc/150?img=36",
+      "image": "https://picsum.photos/id/1018/600/600",
+      "caption": "Adventure is waiting. Let's go! 🚗🌍",
+      "likes": 634,
+      "comments": 51,
+      "date": "2026-08-23"
+    },
+    {
+      "id": "9",
+      "username": "coffee_addict",
+      "profileImage": "https://i.pravatar.cc/150?img=44",
+      "image": "https://picsum.photos/id/1060/600/600",
+      "caption": "Coffee first, everything else later ☕😎",
+      "likes": 287,
+      "comments": 22,
+      "date": "2026-08-22"
+    },
+    {
+      "id": "10",
+      "username": "minimal_lifestyle",
+      "profileImage": "https://i.pravatar.cc/150?img=49",
+      "image": "https://picsum.photos/id/1067/600/600",
+      "caption": "Keep it simple. Keep it beautiful. 🤍",
+      "likes": 354,
+      "comments": 19,
+      "date": "2026-08-21"
+    }
+  ],
+  "profile": {
+    "id": 1,
+    "username": "coding.jsx",
+    "profileImage": "https://picsum.photos/id/431/400/700"
+  },
+  "suggestions": [
+    {
+      "id": "1",
+      "username": "travel_with_me",
+      "profileImage": "https://i.pravatar.cc/150?img=12"
+    },
+    {
+      "id": "2",
+      "username": "foodie_world",
+      "profileImage": "https://i.pravatar.cc/150?img=32"
+    },
+    {
+      "id": "3",
+      "username": "nature_lovers",
+      "profileImage": "https://i.pravatar.cc/150?img=47"
+    },
+    {
+      "id": "4",
+      "username": "street_photography",
+      "profileImage": "https://i.pravatar.cc/150?img=56"
+    },
+    {
+      "id": "5",
+      "username": "fitness_daily",
+      "profileImage": "https://i.pravatar.cc/150?img=68"
+    },
+    {
+      "id": "6",
+      "username": "coding_life",
+      "profileImage": "https://i.pravatar.cc/150?img=15"
+    },
+    {
+      "id": "7",
+      "username": "sunset_vibes",
+      "profileImage": "https://i.pravatar.cc/150?img=22"
+    },
+    {
+      "id": "8",
+      "username": "adventure_time",
+      "profileImage": "https://i.pravatar.cc/150?img=36"
+    },
+    {
+      "id": "9",
+      "username": "coffee_addict",
+      "profileImage": "https://i.pravatar.cc/150?img=44"
+    },
+    {
+      "id": "10",
+      "username": "minimal_lifestyle",
+      "profileImage": "https://i.pravatar.cc/150?img=49"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "username": "travel_with_me",
+      "profileImage": "src/assets/id-1.jpeg",
+      "storyImage": "https://picsum.photos/id/1015/400/700",
+      "time": "2h"
+    },
+    {
+      "id": "2",
+      "username": "foodie_world",
+      "profileImage": "src/assets/id-2.jpeg",
+      "storyImage": "https://picsum.photos/id/292/400/700",
+      "time": "3h"
+    },
+    {
+      "id": "3",
+      "username": "nature_lovers",
+      "profileImage": "src/assets/id-3.jpeg",
+      "storyImage": "https://picsum.photos/id/1036/400/700",
+      "time": "4h"
+    },
+    {
+      "id": "4",
+      "username": "coding_life",
+      "profileImage": "src/assets/id-4.jpeg",
+      "storyImage": "https://picsum.photos/id/180/400/700",
+      "time": "5h"
+    },
+    {
+      "id": "5",
+      "username": "sunset_vibes",
+      "profileImage": "src/assets/id-5.jpeg",
+      "storyImage": "https://picsum.photos/id/870/400/700",
+      "time": "6h"
+    },
+    {
+      "id": "6",
+      "username": "fitness_daily",
+      "profileImage": "src/assets/id-6.jpeg",
+      "storyImage": "https://picsum.photos/id/1060/400/700",
+      "time": "7h"
+    },
+    {
+      "id": "7",
+      "username": "coffee_addict",
+      "profileImage": "src/assets/id-7.jpeg",
+      "storyImage": "https://picsum.photos/id/431/400/700",
+      "time": "8h"
+    },
+    {
+      "id": "8",
+      "username": "adventure_time",
+      "profileImage": "src/assets/id-8.jpeg",
+      "storyImage": "https://picsum.photos/id/1043/400/700",
+      "time": "9h"
+    }
+  ],
+  "followers": [
+    {
+      "id": "1",
+      "username": "travel_with_me",
+      "profileImage": "https://i.pravatar.cc/150?img=12"
+    },
+    {
+      "id": "2",
+      "username": "foodie_world",
+      "profileImage": "https://i.pravatar.cc/150?img=32"
+    },
+    {
+      "id": "3",
+      "username": "nature_lovers",
+      "profileImage": "https://i.pravatar.cc/150?img=47"
+    },
+    {
+      "id": "4",
+      "username": "street_photography",
+      "profileImage": "https://i.pravatar.cc/150?img=56"
+    },
+    {
+      "id": "5",
+      "username": "fitness_daily",
+      "profileImage": "https://i.pravatar.cc/150?img=68"
+    },
+    {
+      "id": "6",
+      "username": "coding_life",
+      "profileImage": "https://i.pravatar.cc/150?img=15"
+    },
+    {
+      "id": "7",
+      "username": "sunset_vibes",
+      "profileImage": "https://i.pravatar.cc/150?img=22"
+    },
+    {
+      "id": "8",
+      "username": "adventure_time",
+      "profileImage": "https://i.pravatar.cc/150?img=36"
+    },
+    {
+      "id": "9",
+      "username": "coffee_addict",
+      "profileImage": "https://i.pravatar.cc/150?img=44"
+    },
+    {
+      "id": "10",
+      "username": "minimal_lifestyle",
+      "profileImage": "https://i.pravatar.cc/150?img=49"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
